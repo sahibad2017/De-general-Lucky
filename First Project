@@ -1,0 +1,6 @@
+package lucky;
+  public class lucky{
+      public ststic void main (sttring [] args){
+        System.out.println(hello world"");
+    }
+  }
